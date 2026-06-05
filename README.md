@@ -58,5 +58,3 @@ Diese Einleitung wird als Einstieg in jede Cold-E-Mail eingebettet. E-Mails, die
 ## Über das Projekt
 
 Dieses System ist eine von mehreren Automatisierungen, die **Youssef Tayachi**, Gründer von [syro-ai](https://syro-ai.com), entwickelt hat. syro-ai hat mit diesem System nicht nur selbst erfolgreich Kunden gewonnen, sondern hilft damit auch anderen Unternehmen, ihre Leadgenerierung zu automatisieren und zu skalieren.
-
-Demo-Video erstellt von **Ramy Tichy**, Co-Founder von syro-ai.

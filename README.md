@@ -1,4 +1,4 @@
-# Automatisiertes Personalisiertes Leadgenerierungssystem - syro-ai
+# Automatisiertes Personalisiertes Leadgenerierungssystem - Syro-ai
 
 Cold-Email-Personalisierung auf Knopfdruck. Das System übernimmt die komplette Recherche und schreibt für jeden Lead eine individuelle E-Mail-Einleitung — automatisch, konsistent, skalierbar.
 
@@ -6,7 +6,9 @@ Cold-Email-Personalisierung auf Knopfdruck. Das System übernimmt die komplette 
 
 Co-Founder Ramy Tichy erklärt und zeigt in diesem 6-minütigen Video das gesamte System - vom Icebreaker bis zum fertigen E-Mail-Versand:
 
-[![Automatisiertes Personalisiertes Leadgenerierungssystem // syro-ai](https://cdn.loom.com/sessions/thumbnails/411dc114edfd4de8aafc3df1e1967fce-with-play.gif)](https://www.loom.com/share/411dc114edfd4de8aafc3df1e1967fce)
+<a href="https://www.loom.com/share/411dc114edfd4de8aafc3df1e1967fce">
+  <img src="https://cdn.loom.com/sessions/thumbnails/411dc114edfd4de8aafc3df1e1967fce-00001.jpg" alt="System-Erklärung Video" width="600" />
+</a>
 
 ## Das Problem mit manueller Personalisierung
 
